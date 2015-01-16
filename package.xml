@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="62354">
+  <head>
+    <schema href="tred_extension_schema.xml"/>
+  </head>
+  <pkgname>talbanken</pkgname>
+  <repository href="http://ufal.mff.cuni.cz/tred/extensions/core/"/>
+  <title>Swedish Treebank</title>
+  <version>1.00</version>
+  <copyright year="2015">Michal Sedlák</copyright>
+
+  <description>
+TrEd extension for Swedish Treebank.
+  </description>
+
+  <require>
+    <tred min_version="2.4936"/>
+  </require>
+</tred_extension>
