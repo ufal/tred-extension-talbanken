@@ -1,2 +1,3 @@
-# tred-extension-talbanken
+# Swedish Treebank Extension
+
 TrEd extension for Swedish Treebank
